@@ -1,0 +1,4 @@
+# This file contain login details
+
+Sandeep = admin
+raju = tester
